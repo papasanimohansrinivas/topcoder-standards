@@ -15,12 +15,8 @@ Deployment Guide
 ### Description
 
 ## Prerequisites
-1. Node 4.x
-  1. NPM
-1. Grunt
-1. Bower
-1. SASS
-
+1. Python 3
+  1. geocoder module
 
 ## Local Deployment
 ```bash
