@@ -20,8 +20,9 @@ Deployment Guide
 
 
 ## Local Deployment
-```Py -3 geocodingValidator_.py location-for-dev.csv output_filename.csv
-```
+
+Py -3 geocodingValidator_.py location-for-dev.csv output_filename.csv
+
 
 ## Production Build and Installation
 How to build the application for upload to a server
