@@ -9,22 +9,18 @@ If you need to use imagery, create a `docs` folder, put your screenshots or imag
 
 --- END NOTES ---
 
-# Project Title Here
+# Geofencing Validator 
 Deployment Guide
 
-### Description
+### Checks whether address is appropriate for given lat,long
 
 ## Prerequisites
-1. Node 4.x
-  1. NPM
-1. Grunt
-1. Bower
-1. SASS
+1. Python 3
+  1. geocoder module
 
 
 ## Local Deployment
-```bash
-npm start
+```Py -3 geocodingValidator_.py location-for-dev.csv output_filename.csv
 ```
 
 ## Production Build and Installation
